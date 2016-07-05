@@ -11,7 +11,7 @@ long_description = open(os.path.join(base_path, 'README.rst')).read()
 
 setup(
     name="sklearn_extras",
-    version="0.1",
+    version="0.1.1",
     description="Some extra stuffs that I always use",
     long_description=long_description,
     author="Ariel Rossanigo",
